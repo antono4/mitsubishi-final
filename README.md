@@ -1,2 +1,26 @@
-Last updated: 2026-09-12 19:50:46 WIB
-Last updated: 2026-09-12 19:56:30 WIB
+# mitsubishi-final
+
+
+
+## 📋 Overview
+
+This repository contains **59 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-12 19:59:59 WIB*
